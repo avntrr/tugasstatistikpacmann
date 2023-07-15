@@ -1,4 +1,6 @@
 # PREDIKSI SKUAD FPL DENGAN LINEAR PROGRAMMING
+![image](https://github.com/avntrr/tugasstatistikpacmann/assets/54851225/2d57320f-5e3c-4bb1-ae3f-2f29985441fe)
+
 ### 1. IMPORT DATASET
 ````python
 import json
