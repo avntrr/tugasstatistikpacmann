@@ -1,6 +1,8 @@
 # PREDIKSI SKUAD FPL DENGAN LINEAR PROGRAMMING
 ![image](https://github.com/avntrr/tugasstatistikpacmann/assets/54851225/2d57320f-5e3c-4bb1-ae3f-2f29985441fe)
-Fantasy Premier League (FPL) adalah permainan simulasi manajemen sepak bola online yang populer di seluruh dunia. Dalam FPL, para peserta memiliki kesempatan untuk menjadi manajer virtual dan membangun tim impian mereka dengan memilih pemain-pemain dari klub sepak bola di Liga Primer Inggris. Tujuan utama dari permainan ini adalah untuk mencetak sebanyak mungkin poin berdasarkan performa pemain-pemain asli di lapangan selama musim kompetisi.
+Fantasy Premier League (FPL) adalah permainan simulasi manajemen sepak bola online yang populer di seluruh dunia. Dalam FPL, para peserta memiliki kesempatan untuk menjadi manajer virtual dan membangun tim impian mereka dengan memilih pemain-pemain dari klub sepak bola di Liga Primer Inggris. Tujuan utama dari permainan ini adalah untuk mencetak sebanyak mungkin poin berdasarkan performa pemain-pemain asli di lapangan selama musim kompetisi.<br>
+Selama musim kompetisi, peserta dapat membuat perubahan pada tim mereka, seperti melakukan pergantian pemain dan taktik formasi, untuk mengoptimalkan performa dan mendapatkan poin yang lebih tinggi. Poin diberikan berdasarkan penampilan nyata pemain di pertandingan sebenarnya, seperti mencetak gol, memberikan assist, menyelamatkan bola, dan lainnya. Selain itu, pemain juga dapat memilih kapten tim mereka, yang akan menerima poin ganda dari penampilannya dalam suatu pertandingan.<br>
+Tugas akhir ini akan menggunakan linear programming untuk memberikan rekomendasi pemain terbaik berdasarkan performa musim sebelumnya untuk menghadapi FPL untuk musim 2023/2024.<br>
 ### 1. IMPORT DATASET
 ````python
 import json
